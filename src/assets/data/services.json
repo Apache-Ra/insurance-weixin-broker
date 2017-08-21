@@ -1,0 +1,6 @@
+{
+  "servicesList": [
+    {"servicesName":"Susan", "servicesCode":"static/img/service/Susan.jpg"},
+    {"servicesName":"Victoria", "servicesCode":"static/img/service/Victoria.jpg"}
+  ]
+}

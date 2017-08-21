@@ -1,0 +1,48 @@
+{
+  "policyBanner": [
+    {
+      "url": "javascript:",
+      "img": "static/img/policy/banner/banner_01.jpg",
+      "title": "保单无忧 为您的港险保驾护航"
+    }, {
+      "url": "javascript:",
+      "img": "static/img/policy/banner/banner_02.jpg",
+      "title": "专业  精准  安心 可靠  您的私人保单管家"
+    }, {
+      "url": "javascript:",
+      "img": "static/img/policy/banner/banner_03.jpg",
+      "title": "未来有你们，保障有我们！"
+    }
+  ],
+  "brokerBanner": [
+    {
+      "url": "javascript:",
+      "img": "static/img/broker/banner/banner_01.jpg",
+      "title": "爱TA 就给TA足够的安全感"
+    }, {
+      "url": "javascript:",
+      "img": "static/img/broker/banner/banner_02.jpg",
+      "title": "保险 给孩子一个确定的未来！"
+    }, {
+      "url": "javascript:",
+      "img": "static/img/broker/banner/banner_03.jpg",
+      "title": "您总是要为家人考虑得更远"
+    }
+  ],
+  "messageBanner": [
+    {
+      "url": "javascript:",
+      "img": "static/img/user/banner/banner_01.jpg",
+      "title": "为孩子打造舒适的未来！"
+    }, {
+      "url": "javascript:",
+      "img": "static/img/user/banner/banner_02.jpg",
+      "title": "为您和您的家人的保障保驾护航"
+    }, {
+      "url": "javascript:",
+      "img": "static/img/user/banner/banner_03.jpg",
+      "title": "全心、精心、为您服务"
+    }
+  ]
+
+}
